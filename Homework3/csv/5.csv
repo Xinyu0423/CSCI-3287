@@ -1,0 +1,18 @@
+ProductID,ProductName,UnitsInStock,UnitPrice,ReorderLevel
+2,Chang,17,19.00,25
+3,"Aniseed Syrup",13,10.00,25
+11,"Queso Cabrales",22,21.00,30
+21,"Sir Rodney's Scones",3,10.00,5
+30,"Nord-Ost Matjeshering",10,25.89,15
+32,"Mascarpone Fabioli",9,32.00,25
+37,"Gravad lax",11,26.00,25
+43,"Ipoh Coffee",17,46.00,25
+45,"Rogede sild",5,9.50,15
+48,Chocolade,15,12.75,25
+49,Maxilaku,10,20.00,15
+56,"Gnocchi di nonna Alice",21,38.00,30
+64,"Wimmers gute Semmelknödel",22,33.25,30
+66,"Louisiana Hot Spiced Okra",4,17.00,20
+68,"Scottish Longbreads",6,12.50,15
+70,"Outback Lager",15,15.00,30
+74,"Longlife Tofu",4,10.00,5

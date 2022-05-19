@@ -1,0 +1,9 @@
+Field,Type,Null,Key,Default,Extra
+ItemID,int(11),NO,PRI,NULL,
+ItemCode,int(11),YES,,NULL,
+ItemName,varchar(40),NO,,NULL,
+ItemDate,date,NO,,NULL,
+ItemQuantity,int(11),NO,,NULL,
+ItemPrice,"decimal(9,2)",NO,,NULL,
+InventoryValue,"decimal(9,2)",YES,,NULL,
+SupplierID,int(11),NO,,NULL,

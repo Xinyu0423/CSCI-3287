@@ -1,0 +1,7 @@
+ItemID,ItemCode,ItemName,ItemDate,ItemQuantity,ItemPrice,SupplierID
+13,NULL,Konbu,2019-06-29,24,6.00,6
+24,NULL,"Guaraná Fantástica",2019-06-29,20,4.50,10
+33,NULL,Geitost,2019-06-29,112,2.50,15
+52,NULL,"Filo Mix",2019-06-29,38,7.00,24
+54,NULL,Tourtière,2019-06-29,21,7.45,25
+75,NULL,"Rhönbräu Klosterbier",2019-06-29,125,7.75,12

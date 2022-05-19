@@ -1,0 +1,5 @@
+LastName,FirstName,"Date_Format(HireDate, '%m/%d/%Y')"
+Buchanan,Steven,10/17/2013
+Dodsworth,Anne,11/15/2004
+King,Robert,09/02/2012
+Suyama,Michael,10/17/2011

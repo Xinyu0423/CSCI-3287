@@ -1,0 +1,5 @@
+FirstName,LastName,Title,count(hwOrders.OrderID)
+Janet,Leverling,"Sales Representative",127
+Laura,Callahan,"Inside Sales Coordinator",104
+Margaret,Peacock,"Sales Representative",156
+Nancy,Davolio,"Sales Representative",123
